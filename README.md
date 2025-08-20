@@ -137,4 +137,4 @@ This is for educational/research purposes. Not a medical diagnostic tool—consu
 
 ---
 
-**Built with curiosity by [Ansh Chhibber]**
+**Built with curiosity by Ansh Chhibber**
