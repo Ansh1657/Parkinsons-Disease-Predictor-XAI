@@ -72,7 +72,7 @@ Parkinson's prediction relies on subtle voice features (e.g., MDVP:Jitter, PPE).
 ### Example Output
 - Accuracy: ~95% on test set.
 - LIME Explanation (for a sample instance):
-  ![LIME Example](assets/lime-example.png) *(Add screenshots to /assets folder)*
+  ![LIME Example](assets/lime-example.png)
 - SHAP Summary Plot: Shows global feature impacts, e.g., high PPE values strongly predict Parkinson's.
 
 ### Predicting New Data
